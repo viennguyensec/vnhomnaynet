@@ -1,0 +1,128 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ],
+    "mixins": [
+      "loopback/common/mixins",
+      "loopback/server/mixins",
+      "../common/mixins",
+      "./mixins"
+    ]
+  },
+  "posts": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "action": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "category": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "channels": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "comments": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "crawler": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "editorsChoice": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "feedBack": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "home-page": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "invites": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "level": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "location": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "meteor_accounts_loginServiceConfiguration": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "meteor_oauth_pendingCredentials": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "meteor_oauth_pendingRequestTokens": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "notification": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "point_action": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "postSkills": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "reasonReport": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "reportComment": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "reportPost": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "serversession": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "status": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "tags": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "tracking_report": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "type": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "users": {
+    "dataSource": "vnhomnay",
+    "public": true
+  },
+  "roles": {
+    "dataSource": "vnhomnay",
+    "public": true
+  }
+}
